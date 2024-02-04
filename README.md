@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# AI impact on daily life
+![AI Article Link](https://www.politico.com/news/2024/02/04/how-ai-is-quietly-changing-everyday-life-00138341)
+
+AI has become a quickly evolving and impacting change in our world. It is becoming more intergrated with everyday life in things that you may not even suspect. From aspects of life from simple processing, to education, to even home buying, AI is being used to improve these experiences. Soon every aspect of our lives will be inadvertently effected by AI. With this we must ensure that the privacy of users and people must be protected along with ensuring the trainging data the AI is built off of is safe.
